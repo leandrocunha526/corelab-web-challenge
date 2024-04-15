@@ -44,7 +44,7 @@ or
 $ docker-compose -f docker-compose.yml up -d
 ```
 
-Image: Nodejs 16 (Alpine)
+Image: Nodejs 18 (Alpine)
 
 Port: 5173
 
