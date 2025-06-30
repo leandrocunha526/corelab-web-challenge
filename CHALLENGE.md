@@ -50,14 +50,14 @@ Open the [layout mockup](https://www.figma.com/file/sQrUVHTlyogq3qGdkqGTXN/mocku
 13. Is the application visually appealing and responsive?
 
 ### Backend
-Repository: 
+Repository:
 1. Node: ^16.15.0
 2. NPM: ^8.5.5
 3. Framework: Adonis TS or any other node framework you know.
 4. Database: Choose your own, you can even save in memory.
 
 ### Frontend
-Repository: 
+Repository:
 1. Node: ^16.15.0
 2. NPM: ^8.5.5
 3. Framework: React TS
